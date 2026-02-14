@@ -2,7 +2,7 @@
 
 Security researcher & software engineer. I reverse engineer malware, hunt bugs, and build things from scratch but not much of a presence on github until this week.
 
-Currently building **[Bushido Browser](https://github.com/visualstudioblyat/bushido)** -- a privacy-first browser in Rust + Tauri with unbypassable ad blocking, advanced fingerprint protection, and zero telemetry.
+Currently building **[Bushido Browser](https://github.com/visualstudioblyat/bushido)** -- a privacy-first browser in Rust + Tauri with native ad blocking, advanced fingerprint protection, and zero telemetry.
 
 **What I do**
 - Reverse engineering & exploit development
