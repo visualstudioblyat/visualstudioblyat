@@ -4,7 +4,7 @@ Security researcher & systems engineer. I reverse engineer malware, write exploi
 
 **Currently building**
 
-**[Yule](https://github.com/visualstudioblyat/yule)** — local AI inference runtime written from scratch in pure Rust. 11 Vulkan compute shaders (raw GLSL 450, fused dequant+dot from quantized weight blocks), full transformer forward pass, Merkle-verified models, Ed25519-signed audit logs, process sandboxing. 10-crate workspace, 98 tests, zero `unsafe` in application code. No llama.cpp, no CUDA, no C++ anywhere.
+**[Yule](https://github.com/visualstudioblyat/yule)** — run AI models locally, built from scratch in pure Rust. Vulkan GPU acceleration, cryptographic model verification, sandboxed execution.
 
 **[Bushido Browser](https://github.com/visualstudioblyat/bushido)** — privacy-first browser in Rust + Tauri. Native ad blocking, fingerprint protection, zero telemetry.
 
