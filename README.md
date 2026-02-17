@@ -4,11 +4,11 @@ Security researcher & systems engineer. I reverse engineer malware, write exploi
 
 **Currently building**
 
-**[Yule](https://github.com/visualstudioblyat/yule)** — run AI models locally, built from scratch in pure Rust. Vulkan GPU acceleration, cryptographic model verification, sandboxed execution.
+**[yule](https://github.com/visualstudioblyat/yule)** — run AI models locally, built from scratch in pure Rust. Vulkan GPU acceleration, cryptographic model verification, sandboxed execution.
 
-**[Baihu](https://github.com/visualstudioblyat/baihu)** — 4.5MB ai assistant that actually works - ( hes paranoid ) .
+**[baihu](https://github.com/visualstudioblyat/baihu)** — 4.5MB ai assistant that actually works - ( hes paranoid ) .
 
-**[Bushido Browser](https://github.com/visualstudioblyat/bushido)** — privacy-first browser in Rust + Tauri. Native ad blocking, fingerprint protection, zero telemetry.
+**[bushido Browser](https://github.com/visualstudioblyat/bushido)** — privacy-first browser in Rust + Tauri. Native ad blocking, fingerprint protection, zero telemetry.
 
 **What I do**
 - Reverse engineering & exploit development
