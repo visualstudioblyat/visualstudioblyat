@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=visualstudioblyat&style=flat&color=black&label=views" alt="profile views" />
+</p>
+
 ### Hey I am visualstudioblyat
 
 Security researcher & systems engineer. I reverse engineer malware, write exploit code, and build things from scratch in Rust — no frameworks, no bindings, no shortcuts.
