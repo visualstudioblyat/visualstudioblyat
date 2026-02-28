@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=visualstudioblyat&style=flat&color=black&label=views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=visualstudioblyat&style=flat&color=000000&label=views" alt="profile views" />
 </p>
 
 ### Hey I am visualstudioblyat
